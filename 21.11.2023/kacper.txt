@@ -1,0 +1,7 @@
+test3
+
+zad1-A
+Zad2-C
+Zad3-B
+Zad4-B
+Zad5-B
